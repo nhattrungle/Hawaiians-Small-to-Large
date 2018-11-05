@@ -1,2 +1,2 @@
-# Hawaiians-Small-to-Large
-Homework Assignment
+# Nhat Le
+## Hawaiians Small to Large
